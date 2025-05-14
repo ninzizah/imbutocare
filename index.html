@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VerdantX - Plant Disease Detector</title>
+    <link rel="stylesheet" href="style.css">
+    <!-- Load TensorFlow.js -->
+    <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@latest/dist/tf.min.js"></script>
+    <!-- Load TFLite Model (placeholder - actual model loading will be in script.js) -->
+    <!-- <script src="https://cdn.jsdelivr.net/npm/@tensorflow-models/mobilenet@latest/dist/mobilenet.min.js"></script> -->
+
+</head>
+<body>
+    <header>
+        <h1>VerdantX - AI Plant Disease Detector (Advanced AI MVP)</h1>
+    </header>
+
+    <main>
+        <section id="uploader">
+            <h2>Upload an Image of Your Plant</h2>
+            <input type="file" id="imageUpload" accept="image/*">
+            <img id="plantImage" src="#" alt="Image Preview" style="display:none; max-width: 300px; margin-top: 10px;">
+            <button id="diagnoseButton" disabled style="margin-top: 10px;">Diagnose Plant (Loading Model...)</button>
+        </section>
+
+        <section id="resultsContainer" style="display:none;">
+            <h2>Diagnosis Results</h2>
+            <div id="result">
+                <p><strong>Plant:</strong> <span id="plantName"></span></p>
+                <p><strong>Detected Disease:</strong> <span id="diseaseName"></span></p>
+                <p><strong>Confidence:</strong> <span id="confidence"></span></p>
+                <h3>Advice:</h3>
+                <pre id="advice"></pre>
+                <h3>Suggested Medicine:</h3>
+                <pre id="medicine"></pre>
+            </div>
+            <div id="alternatives" style="margin-top: 15px;">
+                <!-- Alternative possibilities will be injected here -->
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>VerdantX - For educational and informational purposes only. Always consult with a local agricultural expert.</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
+

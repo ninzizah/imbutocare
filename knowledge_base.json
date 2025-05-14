@@ -1,0 +1,155 @@
+{
+  "Apple___Apple_scab": {
+    "advice": "Prune infected areas. Apply appropriate fungicides. Ensure good air circulation.",
+    "medicine": "Fungicides: Captan, Myclobutanil, Sulfur."
+  },
+  "Apple___Black_rot": {
+    "advice": "Remove and destroy infected fruit and dead wood. Prune to improve air circulation. Apply fungicides during susceptible periods.",
+    "medicine": "Fungicides: Captan, Thiophanate-methyl."
+  },
+  "Apple___Cedar_apple_rust": {
+    "advice": "Remove nearby cedar trees if possible. Apply fungicides preventatively.",
+    "medicine": "Fungicides: Myclobutanil, Ferbam."
+  },
+  "Apple___healthy": {
+    "advice": "Maintain good orchard hygiene. Monitor regularly for pests and diseases.",
+    "medicine": "N/A"
+  },
+  "Blueberry___healthy": {
+    "advice": "Ensure proper soil pH. Water consistently. Prune annually.",
+    "medicine": "N/A"
+  },
+  "Cherry_(including_sour)___Powdery_mildew": {
+    "advice": "Improve air circulation through pruning. Apply fungicides at first sign of disease.",
+    "medicine": "Fungicides: Sulfur, Potassium bicarbonate, Myclobutanil."
+  },
+  "Cherry_(including_sour)___healthy": {
+    "advice": "Protect from birds. Ensure adequate watering and fertilization.",
+    "medicine": "N/A"
+  },
+  "Corn_(maize)___Cercospora_leaf_spot_Gray_leaf_spot": {
+    "advice": "Practice crop rotation. Use resistant hybrids. Apply fungicides if severe.",
+    "medicine": "Fungicides: Pyraclostrobin, Azoxystrobin."
+  },
+  "Corn_(maize)___Common_rust_": {
+    "advice": "Plant resistant varieties. Fungicides may be needed for susceptible varieties if disease is early and severe.",
+    "medicine": "Fungicides: Propiconazole, Tebuconazole."
+  },
+  "Corn_(maize)___Northern_Leaf_Blight": {
+    "advice": "Use resistant hybrids. Crop rotation and tillage can reduce inoculum. Apply fungicides when necessary.",
+    "medicine": "Fungicides: Pyraclostrobin, Fluxapyroxad."
+  },
+  "Corn_(maize)___healthy": {
+    "advice": "Ensure proper nutrient management and weed control. Monitor for pests.",
+    "medicine": "N/A"
+  },
+  "Grape___Black_rot": {
+    "advice": "Remove and destroy infected berries and mummified fruit. Improve air circulation. Apply fungicides.",
+    "medicine": "Fungicides: Mancozeb, Myclobutanil."
+  },
+  "Grape___Esca_(Black_Measles)": {
+    "advice": "Prune out infected wood well below symptoms. No effective chemical control, focus on cultural practices.",
+    "medicine": "N/A (Cultural practices are key)"
+  },
+  "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": {
+    "advice": "Improve air circulation. Rake and destroy fallen leaves. Apply fungicides if needed.",
+    "medicine": "Fungicides: Copper-based fungicides, Mancozeb."
+  },
+  "Grape___healthy": {
+    "advice": "Proper pruning, trellising, and canopy management are crucial. Monitor for common pests.",
+    "medicine": "N/A"
+  },
+  "Orange___Haunglongbing_(Citrus_greening)": {
+    "advice": "Control psyllid vectors. Remove infected trees promptly. No cure, focus on prevention and management.",
+    "medicine": "N/A (Vector control with insecticides like Imidacloprid)"
+  },
+  "Peach___Bacterial_spot": {
+    "advice": "Plant resistant varieties. Apply copper-based bactericides. Prune for air circulation.",
+    "medicine": "Bactericides: Copper hydroxide, Oxytetracycline."
+  },
+  "Peach___healthy": {
+    "advice": "Thin fruit for better size and quality. Manage pests like peach tree borer.",
+    "medicine": "N/A"
+  },
+  "Pepper,_bell___Bacterial_spot": {
+    "advice": "Use disease-free seed and transplants. Rotate crops. Apply copper-based bactericides.",
+    "medicine": "Bactericides: Copper-based sprays, Streptomycin (in some areas)."
+  },
+  "Pepper,_bell___healthy": {
+    "advice": "Provide support for plants. Ensure consistent watering. Monitor for aphids and other pests.",
+    "medicine": "N/A"
+  },
+  "Potato___Early_blight": {
+    "advice": "Rotate crops. Destroy volunteer potato plants. Apply fungicides preventatively.",
+    "medicine": "Fungicides: Chlorothalonil, Mancozeb, Azoxystrobin."
+  },
+  "Potato___Late_blight": {
+    "advice": "Plant resistant varieties. Destroy cull piles. Apply fungicides regularly, especially during cool, wet weather.",
+    "medicine": "Fungicides: Mancozeb, Chlorothalonil, Cymoxanil, Fluazinam."
+  },
+  "Potato___healthy": {
+    "advice": "Ensure proper hilling. Control potato beetles. Harvest carefully to avoid bruising.",
+    "medicine": "N/A"
+  },
+  "Raspberry___healthy": {
+    "advice": "Prune canes after harvest. Manage weeds. Provide support for canes.",
+    "medicine": "N/A"
+  },
+  "Soybean___healthy": {
+    "advice": "Plant at optimal time. Ensure good soil drainage. Monitor for soybean aphids and other pests.",
+    "medicine": "N/A"
+  },
+  "Squash___Powdery_mildew": {
+    "advice": "Plant resistant varieties. Ensure good air circulation. Apply fungicides or horticultural oils.",
+    "medicine": "Fungicides: Sulfur, Potassium bicarbonate, Myclobutanil, Neem oil."
+  },
+  "Strawberry___Leaf_scorch": {
+    "advice": "Remove infected leaves. Improve air circulation. Apply fungicides if severe.",
+    "medicine": "Fungicides: Captan, Myclobutanil."
+  },
+  "Strawberry___healthy": {
+    "advice": "Protect from slugs and birds. Renovate beds after harvest. Use straw mulch.",
+    "medicine": "N/A"
+  },
+  "Tomato___Bacterial_spot": {
+    "advice": "Use disease-free seed. Rotate crops. Avoid overhead irrigation. Apply copper-based bactericides.",
+    "medicine": "Bactericides: Copper hydroxide, Mancozeb (often combined)."
+  },
+  "Tomato___Early_blight": {
+    "advice": "Stake or cage plants. Mulch to reduce soil splash. Apply fungicides preventatively.",
+    "medicine": "Fungicides: Chlorothalonil, Mancozeb, Copper fungicides."
+  },
+  "Tomato___Late_blight": {
+    "advice": "Plant resistant varieties if available. Destroy infected plants immediately. Apply fungicides regularly during high-risk periods.",
+    "medicine": "Fungicides: Chlorothalonil, Mancozeb, Cymoxanil, Fluazinam."
+  },
+  "Tomato___Leaf_Mold": {
+    "advice": "Improve air circulation (especially in greenhouses). Reduce humidity. Use resistant varieties. Apply fungicides.",
+    "medicine": "Fungicides: Chlorothalonil, Mancozeb, Copper fungicides."
+  },
+  "Tomato___Septoria_leaf_spot": {
+    "advice": "Remove and destroy infected lower leaves. Mulch. Rotate crops. Apply fungicides.",
+    "medicine": "Fungicides: Chlorothalonil, Mancozeb, Copper fungicides."
+  },
+  "Tomato___Spider_mites_Two-spotted_spider_mite": {
+    "advice": "Spray plants with water to dislodge mites. Use insecticidal soaps or horticultural oils. Introduce predatory mites.",
+    "medicine": "Miticides: Abamectin, Spiromesifen, Horticultural oil, Insecticidal soap."
+  },
+  "Tomato___Target_Spot": {
+    "advice": "Improve air circulation. Avoid wetting foliage. Apply fungicides.",
+    "medicine": "Fungicides: Chlorothalonil, Mancozeb, Azoxystrobin."
+  },
+  "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+    "advice": "Control whitefly vectors. Use reflective mulches. Remove infected plants. Plant resistant varieties.",
+    "medicine": "N/A (Vector control with insecticides like Imidacloprid, Pyriproxyfen)"
+  },
+  "Tomato___Tomato_mosaic_virus": {
+    "advice": "Wash hands and tools frequently. Do not use tobacco products around plants. Remove and destroy infected plants. Control weeds.",
+    "medicine": "N/A (Prevention is key)"
+  },
+  "Tomato___healthy": {
+    "advice": "Provide consistent watering. Fertilize appropriately. Support plants with stakes or cages.",
+    "medicine": "N/A"
+  }
+}
+
