@@ -71,4 +71,11 @@ footer {
     display: flex; 
     justify-content:center
 }
-.socialIcons a
+.socialIcons a{
+    text-decoration: none;
+    padding:10px;
+    background-color: white;
+    margin: 10px;
+    border-radius:50%;
+    
+}
