@@ -75,7 +75,7 @@ footer {
     text-decoration: none;
     padding:6px;
     background-color: white;
-    margin: 2px;
+    margin: 1px 10px;
     border-radius:50%;
     
 }
@@ -97,7 +97,7 @@ footer {
 
 .footerBottom{
     background-color:#111;
-    padding: 4px;
+    padding: 2px;
     text-align: center;
     
 }
@@ -106,6 +106,6 @@ footer {
     text-transform:uppercase;
     letter-spacing:1px;
     font-weight:4;
-    margin: 0px 5px;
+    margin: 0px 7px;
 }
 
