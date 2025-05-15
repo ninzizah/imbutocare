@@ -90,3 +90,7 @@ footer {
     background-color:#111;
     transition:0.5s;
 }
+.socialIcons a:hover i{
+    color: white;
+    transition:0.5s;
+}
