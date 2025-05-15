@@ -70,7 +70,6 @@ footer {
 .socialIcons{
     display: flex; 
     justify-content:center
-    padding:6px
 }
 .socialIcons a{
     text-decoration: none;
@@ -88,7 +87,7 @@ footer {
 
 /*hover effects on social media Icons*/
 .socialIcons a:hover{
-    background-color:#111;
+    background-color:black;
     transition:0.5s;
 }
 .socialIcons a:hover i{
