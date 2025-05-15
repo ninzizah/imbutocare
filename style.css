@@ -61,7 +61,7 @@ button:hover {
 footer {
     text-align: center;
     padding: 10px;
-    background-color: #333;
+    background-color: #111;
     color: white;
     font-size: 0.8em;
     margin-top: auto;
@@ -83,4 +83,10 @@ footer {
     font-size: 2em;
     color: black;
     opacity:0.9;
+}
+
+/*hover effects on social media Icons*/
+.socialIcons a:hover{
+    background-color:#111;
+    transition:0.5s;
 }
