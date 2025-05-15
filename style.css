@@ -14,7 +14,6 @@ header {
     color: white;
     padding: 1em 0;
     text-align: center;
-    font-size:0.020em;
 }
 
 main {
@@ -64,7 +63,7 @@ footer {
     padding: 2px 0;
     background-color: #111;
     color: white;
-    font-size: 0.7em;
+    font-size: 0.070em;
     margin-top: auto;
 }
 
