@@ -79,3 +79,8 @@ footer {
     border-radius:50%;
     
 }
+.socialIcons i{
+    font-size: 2em;
+    color: black;
+    opacity:0.9;
+}
